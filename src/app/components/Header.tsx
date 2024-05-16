@@ -7,6 +7,8 @@ const Header = () => {
         { name: 'about', path: '/about' },
         { name: 'blog', path: '/blog' },
         { name: 'works', path: '/works' },
+        { name: 'service', path: '/service' },
+        { name: 'Project', path: '/project' },
     ]
     const pathName = usePathname();
     
